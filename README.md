@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web development, DevOps projects, and competitive programming.**
 
-- 👨‍💻 All of my projects are available at [virajtportfolio.netlify.app](virajtportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [http://virajtportfolio.netlify.app](virajtportfolio.netlify.app)
 
 - 📫 How to reach me **virajtakone304@gmail.com**
 
